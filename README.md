@@ -1,7 +1,7 @@
 Oracular-Traverse
 =================
 
-LICENCE
+LICENSE
 -----------------
 Oracular-Traverse by aorakiRoot is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 
