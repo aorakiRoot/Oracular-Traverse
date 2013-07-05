@@ -1,6 +1,19 @@
 <?xml version="1.0"?>
-<beast>
-  <name>
-  Cyro-Daemon
-  </name>
+<beast beastID="0001" type="H03"><!-- HUMANOID TYPE: winged humanoid -->
+  <name>Cyro-Daemon</name>
+  <appearance> With no need for their individual teeth for processing foot, the teeth of the host body amalgamates into a small solid line
+    with their canines becoming oversized on both roof and floor of the mouth. These then become super sharp and strong allowing
+      for piercing of thigns such as vents or body tissue to get to the core of the heat easier.
+    </appearance>
+  <feed>When feeding cyro-daemons open their mouths wide and breath deep. Intaking heat via a cold blue micro-tornado appearing
+    from the source to the daemon. They exhale from the grills below the point of their wings being attached and then down
+    the side of their upperchest. This allows them to gouge their heat-bladder with heat without having to stop for respiration.</feed>
+  <mobility type="+space">
+    Cryo-Daemons may exploit their hosts body with the heat bladder, granting super strength (at the cost of heat) and 
+    flight through the daemon's wings. Through a combination of the heatbladder, wings and gill like features, they may use their 
+    heat to propell themselves through space. Needing only to maintain speed minimally in space, and living off the heat in their 
+    overgorged bladder, or taking a heatsrouce with them (such as a nuclear battery or the like), swarms of Cryo-Daemons
+    may traverse space once their current location has been drained of all sources of heat.
+  </mobility>
+  <blurb>A dark pale blue, cryo-daemons are similar to vampires, in that they feed on heat.</blurb>
 </beast>
