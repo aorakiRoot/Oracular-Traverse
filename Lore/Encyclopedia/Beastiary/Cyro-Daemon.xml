@@ -5,10 +5,10 @@
     with their canines becoming oversized on both roof and floor of the mouth. These then become super sharp and strong allowing
       for piercing of thigns such as vents or body tissue to get to the core of the heat easier.
   </appearance>
-  <feed sourcetype="03" feedtype="vampire" environmentFeed="true">When feeding cyro-daemons open their mouths wide and breath deep. Intaking heat via a cold blue micro-tornado appearing
+  <feed source="03" style="vampire" environmentFeed="true">When feeding cyro-daemons open their mouths wide and breath deep. Intaking heat via a cold blue micro-tornado appearing
     from the source to the daemon. They exhale from the grills below the point of their wings being attached and then down
     the side of their upperchest. This allows them to gouge their heat-bladder with heat without having to stop for respiration.
-  </feed><!-- FEED TYPE: source - heat, feedstyle - vampire, can feed from environment - true -->
+  </feed><!-- FEED TYPE: source - heat, style - vampire, can feed from environment - true -->
   <mobility type="+space">
     Cryo-Daemons may exploit their hosts body with the heat bladder, granting super strength (at the cost of heat) and 
     flight through the daemon's wings. Through a combination of the heatbladder, wings and gill like features, they may use their 
