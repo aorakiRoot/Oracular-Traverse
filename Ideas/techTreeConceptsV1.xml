@@ -1,1 +1,14 @@
-<techtree></techtree>
+<?xml version="1.0"?>
+<techtree>
+  <age>Stone Age</age>
+  <age>Bronze Age</age>
+  <age>Iron Age</age>
+  <age>Steel Age</age>
+  <age>Combustion Age</age>
+  <age>Alloy Age</age>
+  <age>Energy Age</age>
+  <age>Fusion Age</age>
+  <age>Molecular Age</age>
+  <age>Nano Age</age>
+  <age>Enlightened Age</age>
+</techtree>
