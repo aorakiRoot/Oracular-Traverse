@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <techtree>
-  <age>Stone</age><!-- -->
-  <age>Bronze</age><!-- -->
-  <age>Iron</age><!-- -->
-  <age>Steel</age><!-- -->
-  <age>Combustion</age><!-- -->
-  <age>Alloy</age><!-- -->
-  <age>Energy</age><!-- -->
+<!-- NEEDS ALOT OF FLUSHING OUT -->
+  <age>Stone</age><!-- club-->
+  <age>Bronze</age><!--http://neon.mems.cmu.edu/cramb/Processing/history.html -->
+  <age>Iron</age><!-- pig iron / cast iron-->
+  <age>Steel</age><!-- wrought iron/ slag / simple steel-->
+  <age>Combustion</age><!-- engines -->
+  <age>Alloy</age><!-- stainless steel  / batteries -->
+  <age>Energy</age><!-- heavy enegy generation -->
   <!--<age>Space Age</age>-->
-  <age>Molecular</age><!-- -->
-  <age>Nano</age><!-- -->
-  <age>Fusion</age><!-- -->
-  <!--<age>Sub-Space</age><!-- -->
-  <age>Enlightened</age><!-- -->
+  <age>Molecular</age><!-- break down of materials into base parts, re build  -->
+  <age>Nano</age><!--  naono factories -->
+  <age>Fusion</age><!-- mrging orcular magic with science -->
+  <!--<age>Sub-Space</age><!--  -->
+  <age>Enlightened</age><!-- science -->
 </techtree>
