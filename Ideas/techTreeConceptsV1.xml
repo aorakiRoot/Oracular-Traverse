@@ -1,10 +1,22 @@
 <?xml version="1.0"?>
 <techtree>
+<blurb>
+  Stone:
+  Bronze:
+  Iron: The point at which the player starts using iron, for this mod vanilla iron and iron made from the OT(Oracular-Traverse) is classed as :Pig Iron:, this iron will be used for casting more than smithing creating :Cast Iron: when re-melting the pig-iron which can then be poured into casts such as pans or heavy tools. Cast Iron is resistant to wear and tear, 
+  Steel:
+  
+</blurb>
 <!-- NEEDS ALOT OF FLUSHING OUT -->
   <age>Stone</age><!-- club-->
   <age>Bronze</age><!--http://neon.mems.cmu.edu/cramb/Processing/history.html -->
+    <block>Kilm</block>
   <age>Iron</age><!-- pig iron / cast iron-->
-  <age>Steel</age><!-- wrought iron/ slag / simple steel-->
+    <item from="ironOre" process="smelting">pigIron</item>
+    <item from="pigIron" process="smelting">castIron</item>
+  <age>Steel</age>
+    <
+    <item from="pigIron" process=""<!-- wrought iron/ slag / simple steel-->
   <age>Combustion</age><!-- engines -->
   <age>Alloy</age><!-- stainless steel  / batteries -->
   <age>Energy</age><!-- heavy enegy generation -->
